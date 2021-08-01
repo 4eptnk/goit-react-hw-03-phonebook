@@ -1,0 +1,19 @@
+ul,
+li,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  padding: 15px 25px 15px 25px;
+}
+
+.title {
+  margin-bottom: 20px;
+  color: #3a1b14;
+  font-size: 24px;
+}
